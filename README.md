@@ -31,274 +31,274 @@ Whether you're a parent looking for fun, educational activities to do with your 
   - [Table of Contents 📖](#table-of-contents-)
   - [1. The Fundamental Theorem of Calculus](#1-the-fundamental-theorem-of-calculus)
     - [Experiment: Water Flowing from a Funnel into a Container](#experiment-water-flowing-from-a-funnel-into-a-container)
-    - [Materials Needed](#materials-needed)
-    - [Steps to Show the Math](#steps-to-show-the-math)
+      - [Materials Needed](#materials-needed)
+      - [Steps to Show the Math](#steps-to-show-the-math)
     - [What the Symbols Mean](#what-the-symbols-mean)
     - [Why This Equation is Important](#why-this-equation-is-important)
     - [Historical Example](#historical-example)
     - [How to Explain to Kids](#how-to-explain-to-kids)
   - [2. Newton's Second Law of Motion](#2-newtons-second-law-of-motion)
     - [Experiment: Toy Car on a Ramp with Different Weights](#experiment-toy-car-on-a-ramp-with-different-weights)
-    - [Materials Needed](#materials-needed-1)
-    - [Steps to Show the Math](#steps-to-show-the-math-1)
+      - [Materials Needed](#materials-needed-1)
+      - [Steps to Show the Math](#steps-to-show-the-math-1)
     - [What the Symbols Mean](#what-the-symbols-mean-1)
   - [3. The Ideal Gas Law](#3-the-ideal-gas-law)
     - [Experiment: Balloon Over a Bottle in Warm Water](#experiment-balloon-over-a-bottle-in-warm-water)
-    - [Materials Needed](#materials-needed-2)
-    - [Steps to Show the Math](#steps-to-show-the-math-2)
+      - [Materials Needed](#materials-needed-2)
+      - [Steps to Show the Math](#steps-to-show-the-math-2)
     - [What the Symbols Mean](#what-the-symbols-mean-2)
     - [Why This Equation is Important](#why-this-equation-is-important-1)
     - [Historical Example](#historical-example-1)
     - [How to Explain to Kids](#how-to-explain-to-kids-1)
   - [4. Ohm's Law](#4-ohms-law)
     - [Experiment: Circuit with a Battery, Light Bulb, and Dimmer Switch](#experiment-circuit-with-a-battery-light-bulb-and-dimmer-switch)
-    - [Materials Needed](#materials-needed-3)
-    - [Steps to Show the Math](#steps-to-show-the-math-3)
+      - [Materials Needed](#materials-needed-3)
+      - [Steps to Show the Math](#steps-to-show-the-math-3)
     - [What the Symbols Mean](#what-the-symbols-mean-3)
   - [5. The Wave Equation](#5-the-wave-equation)
     - [Experiment: Waves on a Slinky](#experiment-waves-on-a-slinky)
-    - [Materials Needed](#materials-needed-4)
-    - [Steps to Show the Math](#steps-to-show-the-math-4)
+      - [Materials Needed](#materials-needed-4)
+      - [Steps to Show the Math](#steps-to-show-the-math-4)
     - [What the Symbols Mean](#what-the-symbols-mean-4)
     - [Why This Equation is Important](#why-this-equation-is-important-2)
     - [Historical Example](#historical-example-2)
     - [How to Explain to Kids](#how-to-explain-to-kids-2)
   - [6. Euler's Formula for Complex Exponentials](#6-eulers-formula-for-complex-exponentials)
     - [Experiment: Spinning Top or a Clock Face](#experiment-spinning-top-or-a-clock-face)
-    - [Materials Needed](#materials-needed-5)
-    - [Steps to Show the Math](#steps-to-show-the-math-5)
+      - [Materials Needed](#materials-needed-5)
+      - [Steps to Show the Math](#steps-to-show-the-math-5)
     - [What the Symbols Mean](#what-the-symbols-mean-5)
     - [Why This Equation is Important](#why-this-equation-is-important-3)
     - [Historical Example](#historical-example-3)
     - [How to Explain to Kids](#how-to-explain-to-kids-3)
   - [7. The Law of Universal Gravitation](#7-the-law-of-universal-gravitation)
     - [Experiment: Dropping Two Balls from the Same Height](#experiment-dropping-two-balls-from-the-same-height)
-    - [Materials Needed](#materials-needed-6)
-    - [Steps to Show the Math](#steps-to-show-the-math-6)
+      - [Materials Needed](#materials-needed-6)
+      - [Steps to Show the Math](#steps-to-show-the-math-6)
     - [What the Symbols Mean](#what-the-symbols-mean-6)
     - [Why This Equation is Important](#why-this-equation-is-important-4)
     - [Historical Example](#historical-example-4)
     - [How to Explain to Kids](#how-to-explain-to-kids-4)
   - [8. Navier-Stokes Equation (Simplified)](#8-navier-stokes-equation-simplified)
     - [Experiment: Stirring Water in a Bowl](#experiment-stirring-water-in-a-bowl)
-    - [Materials Needed](#materials-needed-7)
-    - [Steps to Show the Math](#steps-to-show-the-math-7)
+      - [Materials Needed](#materials-needed-7)
+      - [Steps to Show the Math](#steps-to-show-the-math-7)
     - [What the Symbols Mean](#what-the-symbols-mean-7)
     - [Why This Equation is Important](#why-this-equation-is-important-5)
     - [Historical Example](#historical-example-5)
     - [How to Explain to Kids](#how-to-explain-to-kids-5)
   - [9. The Normal Distribution (Gaussian Function)](#9-the-normal-distribution-gaussian-function)
     - [Experiment: Dropping Balls into a Bowl](#experiment-dropping-balls-into-a-bowl)
-    - [Materials Needed](#materials-needed-8)
-    - [Steps to Show the Math](#steps-to-show-the-math-8)
+      - [Materials Needed](#materials-needed-8)
+      - [Steps to Show the Math](#steps-to-show-the-math-8)
     - [What the Symbols Mean](#what-the-symbols-mean-8)
     - [Why This Equation is Important](#why-this-equation-is-important-6)
     - [Historical Example](#historical-example-6)
     - [How to Explain to Kids](#how-to-explain-to-kids-6)
   - [10. Bayes' Theorem](#10-bayes-theorem)
     - [Experiment: Drawing Colored Candies from Two Bags](#experiment-drawing-colored-candies-from-two-bags)
-    - [Materials Needed](#materials-needed-9)
-    - [Steps to Show the Math](#steps-to-show-the-math-9)
+      - [Materials Needed](#materials-needed-9)
+      - [Steps to Show the Math](#steps-to-show-the-math-9)
     - [What the Symbols Mean](#what-the-symbols-mean-9)
     - [Why This Equation is Important](#why-this-equation-is-important-7)
     - [Historical Example](#historical-example-7)
     - [How to Explain to Kids](#how-to-explain-to-kids-7)
   - [11. The Second Law of Thermodynamics](#11-the-second-law-of-thermodynamics)
     - [Experiment: Melting Ice in a Warm Drink](#experiment-melting-ice-in-a-warm-drink)
-    - [Materials Needed](#materials-needed-10)
-    - [Steps to Show the Math](#steps-to-show-the-math-10)
+      - [Materials Needed](#materials-needed-10)
+      - [Steps to Show the Math](#steps-to-show-the-math-10)
     - [What the Symbols Mean](#what-the-symbols-mean-10)
     - [Why This Equation is Important](#why-this-equation-is-important-8)
     - [Historical Example](#historical-example-8)
     - [How to Explain to Kids](#how-to-explain-to-kids-8)
   - [12. Planck's Equation for Blackbody Radiation](#12-plancks-equation-for-blackbody-radiation)
     - [Experiment: Flashlight with Colored Filters](#experiment-flashlight-with-colored-filters)
-    - [Materials Needed](#materials-needed-11)
-    - [Steps to Show the Math](#steps-to-show-the-math-11)
+      - [Materials Needed](#materials-needed-11)
+      - [Steps to Show the Math](#steps-to-show-the-math-11)
     - [What the Symbols Mean](#what-the-symbols-mean-11)
     - [Why This Equation is Important](#why-this-equation-is-important-9)
     - [Historical Example](#historical-example-9)
     - [How to Explain to Kids](#how-to-explain-to-kids-9)
   - [13. Coulomb's Law](#13-coulombs-law)
     - [Experiment: Rubbing Two Balloons with a Wool Sweater](#experiment-rubbing-two-balloons-with-a-wool-sweater)
-    - [Materials Needed](#materials-needed-12)
-    - [Steps to Show the Math](#steps-to-show-the-math-12)
+      - [Materials Needed](#materials-needed-12)
+      - [Steps to Show the Math](#steps-to-show-the-math-12)
     - [What the Symbols Mean](#what-the-symbols-mean-12)
     - [Why This Equation is Important](#why-this-equation-is-important-10)
     - [Historical Example](#historical-example-10)
     - [How to Explain to Kids](#how-to-explain-to-kids-10)
   - [14. The Logistic Growth Model](#14-the-logistic-growth-model)
     - [Experiment: Growing Plants in a Pot](#experiment-growing-plants-in-a-pot)
-    - [Materials Needed](#materials-needed-13)
-    - [Steps to Show the Math](#steps-to-show-the-math-13)
+      - [Materials Needed](#materials-needed-13)
+      - [Steps to Show the Math](#steps-to-show-the-math-13)
     - [What the Symbols Mean](#what-the-symbols-mean-13)
     - [Why This Equation is Important](#why-this-equation-is-important-11)
     - [Historical Example](#historical-example-11)
     - [How to Explain to Kids](#how-to-explain-to-kids-11)
   - [15. Kirchhoff's Current Law (KCL)](#15-kirchhoffs-current-law-kcl)
     - [Experiment: Using a Y-Shaped Water Pipe](#experiment-using-a-y-shaped-water-pipe)
-    - [Materials Needed](#materials-needed-14)
-    - [Steps to Show the Math](#steps-to-show-the-math-14)
+      - [Materials Needed](#materials-needed-14)
+      - [Steps to Show the Math](#steps-to-show-the-math-14)
     - [What the Symbols Mean](#what-the-symbols-mean-14)
     - [Why This Equation is Important](#why-this-equation-is-important-12)
     - [Historical Example](#historical-example-12)
     - [How to Explain to Kids](#how-to-explain-to-kids-12)
   - [16. Hooke's Law](#16-hookes-law)
     - [Experiment: Stretching a Spring](#experiment-stretching-a-spring)
-    - [Materials Needed](#materials-needed-15)
-    - [Steps to Show the Math](#steps-to-show-the-math-15)
+      - [Materials Needed](#materials-needed-15)
+      - [Steps to Show the Math](#steps-to-show-the-math-15)
     - [What the Symbols Mean](#what-the-symbols-mean-15)
     - [Why This Equation is Important](#why-this-equation-is-important-13)
     - [Historical Example](#historical-example-13)
     - [How to Explain to Kids](#how-to-explain-to-kids-13)
   - [17. The Pythagorean Theorem](#17-the-pythagorean-theorem)
     - [Experiment: Using a Right Triangle](#experiment-using-a-right-triangle)
-    - [Materials Needed](#materials-needed-16)
-    - [Steps to Show the Math](#steps-to-show-the-math-16)
+      - [Materials Needed](#materials-needed-16)
+      - [Steps to Show the Math](#steps-to-show-the-math-16)
     - [What the Symbols Mean](#what-the-symbols-mean-16)
     - [Why This Equation is Important](#why-this-equation-is-important-14)
     - [Historical Example](#historical-example-14)
     - [How to Explain to Kids](#how-to-explain-to-kids-14)
   - [18. Snell's Law](#18-snells-law)
     - [Experiment: Light Bending in Water](#experiment-light-bending-in-water)
-    - [Materials Needed](#materials-needed-17)
-    - [Steps to Show the Math](#steps-to-show-the-math-17)
+      - [Materials Needed](#materials-needed-17)
+      - [Steps to Show the Math](#steps-to-show-the-math-17)
     - [What the Symbols Mean](#what-the-symbols-mean-17)
     - [Why This Equation is Important](#why-this-equation-is-important-15)
     - [Historical Example](#historical-example-15)
     - [How to Explain to Kids](#how-to-explain-to-kids-15)
   - [19. Bernoulli's Equation](#19-bernoullis-equation)
     - [Experiment: Blowing Over Paper](#experiment-blowing-over-paper)
-    - [Materials Needed](#materials-needed-18)
-    - [Steps to Show the Math](#steps-to-show-the-math-18)
+      - [Materials Needed](#materials-needed-18)
+      - [Steps to Show the Math](#steps-to-show-the-math-18)
     - [What the Symbols Mean](#what-the-symbols-mean-18)
     - [Why This Equation is Important](#why-this-equation-is-important-16)
     - [Historical Example](#historical-example-16)
     - [How to Explain to Kids](#how-to-explain-to-kids-16)
   - [20. The Schrödinger Equation](#20-the-schrödinger-equation)
     - [Experiment: Waves in a Rope](#experiment-waves-in-a-rope)
-    - [Materials Needed](#materials-needed-19)
-    - [Steps to Show the Math](#steps-to-show-the-math-19)
+      - [Materials Needed](#materials-needed-19)
+      - [Steps to Show the Math](#steps-to-show-the-math-19)
     - [What the Symbols Mean](#what-the-symbols-mean-19)
     - [Why This Equation is Important](#why-this-equation-is-important-17)
     - [Historical Example](#historical-example-17)
     - [How to Explain to Kids](#how-to-explain-to-kids-17)
   - [21. Faraday's Law of Electromagnetic Induction](#21-faradays-law-of-electromagnetic-induction)
     - [Experiment: Moving a Magnet Near a Coil](#experiment-moving-a-magnet-near-a-coil)
-    - [Materials Needed](#materials-needed-20)
-    - [Steps to Show the Math](#steps-to-show-the-math-20)
+      - [Materials Needed](#materials-needed-20)
+      - [Steps to Show the Math](#steps-to-show-the-math-20)
     - [What the Symbols Mean](#what-the-symbols-mean-20)
     - [Why This Equation is Important](#why-this-equation-is-important-18)
     - [Historical Example](#historical-example-18)
     - [How to Explain to Kids](#how-to-explain-to-kids-18)
   - [22. The Doppler Effect Equation](#22-the-doppler-effect-equation)
     - [Experiment: Whistle and Running](#experiment-whistle-and-running)
-    - [Materials Needed](#materials-needed-21)
-    - [Steps to Show the Math](#steps-to-show-the-math-21)
+      - [Materials Needed](#materials-needed-21)
+      - [Steps to Show the Math](#steps-to-show-the-math-21)
     - [What the Symbols Mean](#what-the-symbols-mean-21)
     - [Why This Equation is Important](#why-this-equation-is-important-19)
     - [Historical Example](#historical-example-19)
     - [How to Explain to Kids](#how-to-explain-to-kids-19)
   - [23. The Heisenberg Uncertainty Principle](#23-the-heisenberg-uncertainty-principle)
     - [Experiment: Throwing a Ball in the Dark](#experiment-throwing-a-ball-in-the-dark)
-    - [Materials Needed](#materials-needed-22)
-    - [Steps to Show the Math](#steps-to-show-the-math-22)
+      - [Materials Needed](#materials-needed-22)
+      - [Steps to Show the Math](#steps-to-show-the-math-22)
     - [What the Symbols Mean](#what-the-symbols-mean-22)
     - [Why This Equation is Important](#why-this-equation-is-important-20)
     - [Historical Example](#historical-example-20)
     - [How to Explain to Kids](#how-to-explain-to-kids-20)
   - [24. The Lorentz Transformation](#24-the-lorentz-transformation)
     - [Experiment: Watching a Moving Object](#experiment-watching-a-moving-object)
-    - [Materials Needed](#materials-needed-23)
-    - [Steps to Show the Math](#steps-to-show-the-math-23)
+      - [Materials Needed](#materials-needed-23)
+      - [Steps to Show the Math](#steps-to-show-the-math-23)
     - [What the Symbols Mean](#what-the-symbols-mean-23)
     - [Why This Equation is Important](#why-this-equation-is-important-21)
     - [Historical Example](#historical-example-21)
     - [How to Explain to Kids](#how-to-explain-to-kids-21)
   - [25. Fourier Transform](#25-fourier-transform)
     - [Experiment: Sound Waves and Frequencies](#experiment-sound-waves-and-frequencies)
-    - [Materials Needed](#materials-needed-24)
-    - [Steps to Show the Math](#steps-to-show-the-math-24)
+      - [Materials Needed](#materials-needed-24)
+      - [Steps to Show the Math](#steps-to-show-the-math-24)
     - [What the Symbols Mean](#what-the-symbols-mean-24)
     - [Why This Equation is Important](#why-this-equation-is-important-22)
     - [Historical Example](#historical-example-22)
     - [How to Explain to Kids](#how-to-explain-to-kids-22)
   - [26. The Stefan-Boltzmann Law](#26-the-stefan-boltzmann-law)
     - [Experiment: Observing Heat from Different Light Bulbs](#experiment-observing-heat-from-different-light-bulbs)
-    - [Materials Needed](#materials-needed-25)
-    - [Steps to Show the Math](#steps-to-show-the-math-25)
+      - [Materials Needed](#materials-needed-25)
+      - [Steps to Show the Math](#steps-to-show-the-math-25)
     - [What the Symbols Mean](#what-the-symbols-mean-25)
     - [Why This Equation is Important](#why-this-equation-is-important-23)
     - [Historical Example](#historical-example-23)
     - [How to Explain to Kids](#how-to-explain-to-kids-23)
   - [27. The Schrödinger Wave Equation (Time-Independent Form)](#27-the-schrödinger-wave-equation-time-independent-form)
     - [Experiment: Standing Waves on a String](#experiment-standing-waves-on-a-string)
-    - [Materials Needed](#materials-needed-26)
-    - [Steps to Show the Math](#steps-to-show-the-math-26)
+      - [Materials Needed](#materials-needed-26)
+      - [Steps to Show the Math](#steps-to-show-the-math-26)
     - [What the Symbols Mean](#what-the-symbols-mean-26)
     - [Why This Equation is Important](#why-this-equation-is-important-24)
     - [Historical Example](#historical-example-24)
     - [How to Explain to Kids](#how-to-explain-to-kids-24)
   - [28. The Nernst Equation](#28-the-nernst-equation)
     - [Experiment: Lemon Battery](#experiment-lemon-battery)
-    - [Materials Needed](#materials-needed-27)
-    - [Steps to Show the Math](#steps-to-show-the-math-27)
+      - [Materials Needed](#materials-needed-27)
+      - [Steps to Show the Math](#steps-to-show-the-math-27)
     - [What the Symbols Mean](#what-the-symbols-mean-27)
     - [Why This Equation is Important](#why-this-equation-is-important-25)
     - [Historical Example](#historical-example-25)
     - [How to Explain to Kids](#how-to-explain-to-kids-25)
   - [29. The Black-Scholes Equation](#29-the-black-scholes-equation)
     - [Experiment: Stock Market Simulation Game](#experiment-stock-market-simulation-game)
-    - [Materials Needed](#materials-needed-28)
-    - [Steps to Show the Math](#steps-to-show-the-math-28)
+      - [Materials Needed](#materials-needed-28)
+      - [Steps to Show the Math](#steps-to-show-the-math-28)
     - [What the Symbols Mean](#what-the-symbols-mean-28)
     - [Why This Equation is Important](#why-this-equation-is-important-26)
     - [Historical Example](#historical-example-26)
     - [How to Explain to Kids](#how-to-explain-to-kids-26)
   - [30. Maxwell's Equations (Simplified Form)](#30-maxwells-equations-simplified-form)
     - [Experiment: Electromagnetic Wave Demonstration](#experiment-electromagnetic-wave-demonstration)
-    - [Materials Needed](#materials-needed-29)
-    - [Steps to Show the Math](#steps-to-show-the-math-29)
+      - [Materials Needed](#materials-needed-29)
+      - [Steps to Show the Math](#steps-to-show-the-math-29)
     - [What the Symbols Mean](#what-the-symbols-mean-29)
     - [Why This Equation is Important](#why-this-equation-is-important-27)
     - [Historical Example](#historical-example-27)
     - [How to Explain to Kids](#how-to-explain-to-kids-27)
   - [31. The Conservation of Momentum](#31-the-conservation-of-momentum)
     - [Experiment: Rolling Marbles on a Smooth Surface](#experiment-rolling-marbles-on-a-smooth-surface)
-    - [Materials Needed](#materials-needed-30)
-    - [Steps to Show the Math](#steps-to-show-the-math-30)
+      - [Materials Needed](#materials-needed-30)
+      - [Steps to Show the Math](#steps-to-show-the-math-30)
     - [What the Symbols Mean](#what-the-symbols-mean-30)
     - [Why This Equation is Important](#why-this-equation-is-important-28)
     - [Historical Example](#historical-example-28)
     - [How to Explain to Kids](#how-to-explain-to-kids-28)
   - [32. The Law of Refraction (Snell's Law)](#32-the-law-of-refraction-snells-law)
     - [Experiment: Laser Pointer in Water](#experiment-laser-pointer-in-water)
-    - [Materials Needed](#materials-needed-31)
-    - [Steps to Show the Math](#steps-to-show-the-math-31)
+      - [Materials Needed](#materials-needed-31)
+      - [Steps to Show the Math](#steps-to-show-the-math-31)
     - [What the Symbols Mean](#what-the-symbols-mean-31)
     - [Why This Equation is Important](#why-this-equation-is-important-29)
     - [Historical Example](#historical-example-29)
     - [How to Explain to Kids](#how-to-explain-to-kids-29)
   - [33. The Continuity Equation in Fluid Dynamics](#33-the-continuity-equation-in-fluid-dynamics)
     - [Experiment: Squeezing a Water Hose](#experiment-squeezing-a-water-hose)
-    - [Materials Needed](#materials-needed-32)
-    - [Steps to Show the Math](#steps-to-show-the-math-32)
+      - [Materials Needed](#materials-needed-32)
+      - [Steps to Show the Math](#steps-to-show-the-math-32)
     - [What the Symbols Mean](#what-the-symbols-mean-32)
     - [Why This Equation is Important](#why-this-equation-is-important-30)
     - [Historical Example](#historical-example-30)
     - [How to Explain to Kids](#how-to-explain-to-kids-30)
   - [34. The Gravitational Potential Energy](#34-the-gravitational-potential-energy)
     - [Experiment: Dropping Objects from Different Heights](#experiment-dropping-objects-from-different-heights)
-    - [Materials Needed](#materials-needed-33)
-    - [Steps to Show the Math](#steps-to-show-the-math-33)
+      - [Materials Needed](#materials-needed-33)
+      - [Steps to Show the Math](#steps-to-show-the-math-33)
     - [What the Symbols Mean](#what-the-symbols-mean-33)
     - [Why This Equation is Important](#why-this-equation-is-important-31)
     - [Historical Example](#historical-example-31)
     - [How to Explain to Kids](#how-to-explain-to-kids-31)
   - [35. The Ideal Gas Law (Revisited with Temperature)](#35-the-ideal-gas-law-revisited-with-temperature)
     - [Experiment: Inflating a Balloon in Hot and Cold Water](#experiment-inflating-a-balloon-in-hot-and-cold-water)
-    - [Materials Needed](#materials-needed-34)
-    - [Steps to Show the Math](#steps-to-show-the-math-34)
+      - [Materials Needed](#materials-needed-34)
+      - [Steps to Show the Math](#steps-to-show-the-math-34)
     - [What the Symbols Mean](#what-the-symbols-mean-34)
     - [Why This Equation is Important](#why-this-equation-is-important-32)
     - [Historical Example](#historical-example-32)
@@ -312,14 +312,14 @@ $$
 
 ### Experiment: Water Flowing from a Funnel into a Container
 
-### Materials Needed
+#### Materials Needed
 - Funnel
 - Large container (like a measuring jug)
 - Small cup (e.g., 10 ml or 50 ml)
 - Stopwatch
 - Water
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place the funnel over the large container. Make sure the container is stable to avoid spills.
 2. **Measure Flow Rate:** 
    - Start with a small amount of water in the funnel. Place the small cup under the funnel's spout.
@@ -355,14 +355,14 @@ $$
 
 ### Experiment: Toy Car on a Ramp with Different Weights
 
-### Materials Needed
+#### Materials Needed
 - Toy car
 - Ramp (a piece of wood or a book inclined on a stack)
 - Small weights (like coins or small bags of rice)
 - Stopwatch
 - Measuring tape or ruler
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place the ramp on an inclined surface. Ensure it's stable.
 2. **Measure Car Mass:** Weigh the toy car using a kitchen scale. Note its mass (e.g., 0.5 kg).
 3. **Calculate Acceleration:**
@@ -393,14 +393,14 @@ $$
 
 ### Experiment: Balloon Over a Bottle in Warm Water
 
-### Materials Needed
+#### Materials Needed
 - Small balloon
 - Bottle (glass or plastic)
 - Warm water
 - Measuring tape
 - Thermometer
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Stretch the balloon over the bottle's opening. Ensure it's sealed tightly.
 2. **Measure Initial Balloon Volume:** Measure the balloon’s circumference while at room temperature to estimate its volume.
 3. **Change Temperature:** Place the bottle in a bowl of warm water. Observe the balloon inflating as the temperature rises.
@@ -433,14 +433,14 @@ $$
 
 ### Experiment: Circuit with a Battery, Light Bulb, and Dimmer Switch
 
-### Materials Needed
+#### Materials Needed
 - Battery (9V)
 - Small light bulb
 - Dimmer switch or variable resistor
 - Multimeter
 - Wires and connectors
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Connect the battery to the light bulb using wires. Include the dimmer switch in the circuit.
 2. **Measure Voltage:** Use the multimeter to measure the voltage across the light bulb (e.g., 9V).
 3. **Measure Current:** Measure the current using the multimeter (e.g., 0.5A).
@@ -465,12 +465,12 @@ $$
 
 ### Experiment: Waves on a Slinky
 
-### Materials Needed
+#### Materials Needed
 - Slinky (metal or plastic)
 - Measuring tape
 - Stopwatch
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Stretch the slinky across a table or floor.
 2. **Create a Wave:** Push one end of the slinky to create a wave and watch it travel down its length.
 3. **Measure Wave Speed:** Use the stopwatch to measure the time it takes for the wave to travel to the other end and back. Measure the length of the slinky.
@@ -501,11 +501,11 @@ $$
 
 ### Experiment: Spinning Top or a Clock Face
 
-### Materials Needed
+#### Materials Needed
 - Spinning top or a large clock face
 - Paper and markers
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Spin the Top:** Spin the top and observe its circular motion.
 2. **Draw a Circle:** On paper, draw a circle and mark points at different angles. Label them with cosine and sine values.
 3. **Explanation:** Show how the spinning top's movement resembles cosine and sine functions. Explain Euler’s formula as a way to describe circular motion mathematically.
@@ -535,12 +535,12 @@ $$
 
 ### Experiment: Dropping Two Balls from the Same Height
 
-### Materials Needed
+#### Materials Needed
 - Two balls of different sizes and weights (e.g., tennis ball and basketball)
 - Measuring tape
 - Stopwatch (optional)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Stand on a chair or step stool and hold both balls at the same height.
 2. **Drop the Balls:** Release both balls simultaneously and observe that they hit the ground at the same time.
 3. **Measure Masses and Distance:** Discuss the masses of the balls and the distance to the ground.
@@ -571,12 +571,12 @@ $$
 
 ### Experiment: Stirring Water in a Bowl
 
-### Materials Needed
+#### Materials Needed
 - Bowl of water
 - Spoon or stirring stick
 - Food coloring (optional)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Fill the bowl with water. Add a drop of food coloring if you want to visualize movement.
 2. **Stir the Water:** Use the spoon to stir the water and observe how it swirls and moves.
 3. **Change Speed:** Stir faster and observe how the water’s movement changes.
@@ -610,12 +610,12 @@ $$
 
 ### Experiment: Dropping Balls into a Bowl
 
-### Materials Needed
+#### Materials Needed
 - Small balls (like marbles or ping-pong balls)
 - Large bowl
 - Chart paper and markers
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place the bowl on a flat surface.
 2. **Drop the Balls:** Drop balls from above the bowl, aiming for the center. Count how many land in the middle versus the sides.
 3. **Draw a Chart:** Plot the numbers to show a peak in the middle and lower on the sides, forming a bell curve.
@@ -647,12 +647,12 @@ $$
 
 ### Experiment: Drawing Colored Candies from Two Bags
 
-### Materials Needed
+#### Materials Needed
 - Two bags
 - Candies of different colors (e.g., red and blue)
 - Paper and markers for counting
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place a different number of red and blue candies in each bag (e.g., bag 1 has 5 red, 3 blue; bag 2 has 2 red, 6 blue).
 2. **Pick a Candy:** Blindfold the child and have them pick a candy from one of the bags. Note its color.
 3. **Count and Compare:** Count how many candies of that color are in each bag and use this to estimate which bag it likely came from.
@@ -683,12 +683,12 @@ $$
 
 ### Experiment: Melting Ice in a Warm Drink
 
-### Materials Needed
+#### Materials Needed
 - Ice cubes
 - Warm drink (like tea or water)
 - Thermometer
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place an ice cube in a warm drink.
 2. **Melt the Ice:** Watch the ice melt and observe how the temperature changes over time.
 3. **Measure Temperature:** Use the thermometer to measure the temperature until it’s even throughout.
@@ -717,12 +717,12 @@ $$
 
 ### Experiment: Flashlight with Colored Filters
 
-### Materials Needed
+#### Materials Needed
 - Flashlight
 - Red and blue cellophane or colored filters
 - White paper
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Shine the flashlight through the red filter onto a white piece of paper. Then do the same with the blue filter.
 2. **Explain Energy:** Explain that blue light has more energy than red light because it has a higher frequency.
 3. **Explanation:** Relate this to Planck's equation, showing how energy changes with color. It’s like the flashlight is using different amounts of energy to make different colors.
@@ -751,11 +751,11 @@ $$
 
 ### Experiment: Rubbing Two Balloons with a Wool Sweater
 
-### Materials Needed
+#### Materials Needed
 - Two balloons
 - Wool sweater or cloth
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Rub and Charge:** Inflate the balloons and rub them with the wool sweater to charge them.
 2. **Observe Repulsion:** Bring the balloons close to each other and observe how they repel.
 3. **Explanation:** Explain that rubbing creates an electric charge, and Coulomb's law shows how this charge causes the balloons to push away from each other. The more you rub, the stronger the push.
@@ -785,12 +785,12 @@ $$
 
 ### Experiment: Growing Plants in a Pot
 
-### Materials Needed
+#### Materials Needed
 - Plant seeds
 - Pot and soil
 - Measuring tape or ruler
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Plant Seeds:** Plant seeds in a pot and water them regularly.
 2. **Measure Growth:** Measure the height of the plants every few days.
 3. **Explanation:** Explain how plants grow quickly at first when there’s plenty of space, but growth slows as they get bigger and space runs out. This equation predicts growth patterns, similar to how things in nature find balance.
@@ -820,12 +820,12 @@ $$
 
 ### Experiment: Using a Y-Shaped Water Pipe
 
-### Materials Needed
+#### Materials Needed
 - Y-shaped pipe (like a garden hose splitter)
 - Water source (faucet or water jug)
 - Measuring cups
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Connect the Y-pipe to the water source. Use measuring cups at each end of the Y.
 2. **Pour Water:** Turn on the faucet or pour water into the pipe.
 3. **Measure Output:** Measure the amount of water coming out of each end of the Y-pipe.
@@ -854,13 +854,13 @@ $$
 
 ### Experiment: Stretching a Spring
 
-### Materials Needed
+#### Materials Needed
 - Spring (e.g., from a hardware store)
 - Weights (like small bags of sand or objects of known mass)
 - Ruler or measuring tape
 - Hook for hanging
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Hang the spring from a hook or support.
 2. **Measure Spring Length:** Measure the spring's natural (unstretched) length.
 3. **Add Weights:** Attach a weight to the spring and measure how much the spring stretches.
@@ -891,12 +891,12 @@ $$
 
 ### Experiment: Using a Right Triangle
 
-### Materials Needed
+#### Materials Needed
 - Ruler or measuring tape
 - Right-angle triangle (e.g., cardboard cutout or triangle tool)
 - Calculator (optional)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Draw a right-angle triangle on paper or use a physical triangle.
 2. **Measure Sides:** Measure the lengths of the two shorter sides (legs) of the triangle.
 3. **Calculate Hypotenuse:** Use the Pythagorean theorem to calculate the length of the hypotenuse.
@@ -927,13 +927,13 @@ $$
 
 ### Experiment: Light Bending in Water
 
-### Materials Needed
+#### Materials Needed
 - Glass of water
 - Flashlight or laser pointer
 - Protractor
 - White paper
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place the glass of water on the white paper.
 2. **Shine Light:** Shine the flashlight or laser pointer at an angle into the water.
 3. **Observe Bending:** Observe how the light bends as it enters the water.
@@ -964,11 +964,11 @@ $$
 
 ### Experiment: Blowing Over Paper
 
-### Materials Needed
+#### Materials Needed
 - Sheet of paper
 - Drinking straw (optional)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Hold a piece of paper by its edges.
 2. **Blow Air:** Blow over the top of the paper and observe how it rises.
 3. **Explanation:** Explain that blowing air over the top creates lower pressure, causing the higher pressure below to lift the paper, demonstrating Bernoulli’s principle.
@@ -1001,11 +1001,11 @@ $$
 
 ### Experiment: Waves in a Rope
 
-### Materials Needed
+#### Materials Needed
 - Long rope or string
 - Space to create waves
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Lay out a rope or string on the ground.
 2. **Create Waves:** Move one end of the rope up and down to create waves.
 3. **Observe Waves:** Notice the wave patterns and how they spread along the rope.
@@ -1036,12 +1036,12 @@ $$
 
 ### Experiment: Moving a Magnet Near a Coil
 
-### Materials Needed
+#### Materials Needed
 - Coil of wire
 - Strong magnet
 - Galvanometer or sensitive multimeter
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Connect the coil to the galvanometer or multimeter.
 2. **Move Magnet:** Move the magnet in and out of the coil.
 3. **Observe:** Watch the needle or reading on the meter change as the magnet moves.
@@ -1071,11 +1071,11 @@ $$
 
 ### Experiment: Whistle and Running
 
-### Materials Needed
+#### Materials Needed
 - Whistle
 - Space to run (e.g., a yard or park)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Have someone stand still while another person runs past with a whistle.
 2. **Blow Whistle:** The runner blows the whistle while moving past the stationary person.
 3. **Observe Sound:** Notice how the pitch of the whistle changes as the runner approaches and then moves away.
@@ -1107,12 +1107,12 @@ $$
 
 ### Experiment: Throwing a Ball in the Dark
 
-### Materials Needed
+#### Materials Needed
 - Soft ball
 - Dark room
 - Flashlight
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Turn off the lights to make the room dark.
 2. **Throw Ball:** Have someone throw a soft ball in the dark and try to catch it.
 3. **Use Flashlight:** Turn on the flashlight for a brief moment to see the ball.
@@ -1142,12 +1142,12 @@ $$
 
 ### Experiment: Watching a Moving Object
 
-### Materials Needed
+#### Materials Needed
 - Toy car
 - Long track or surface
 - Stopwatch
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place the toy car at one end of the track.
 2. **Move Car:** Push the car and start the stopwatch.
 3. **Measure Time:** Measure how long it takes for the car to reach the other end.
@@ -1182,12 +1182,12 @@ $$
 
 ### Experiment: Sound Waves and Frequencies
 
-### Materials Needed
+#### Materials Needed
 - Tuning forks or a piano
 - Microphone
 - Computer with sound analysis software (e.g., Audacity)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Open sound analysis software on the computer.
 2. **Create Sound:** Strike a tuning fork or press a piano key.
 3. **Analyze Sound:** Use the microphone to capture the sound and observe the wave patterns on the software.
@@ -1219,13 +1219,13 @@ $$
 
 ### Experiment: Observing Heat from Different Light Bulbs
 
-### Materials Needed
+#### Materials Needed
 - Different wattage light bulbs (e.g., 40W, 60W, 100W)
 - Thermometer
 - Cardboard box
 - Timer
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Create a small enclosed space with the cardboard box, leaving one side open.
 2. **Measure Temperature:** Place the thermometer inside the box and note the initial temperature.
 3. **Heat with Light:** Place each light bulb at the same distance from the thermometer, one at a time, for a set duration (e.g., 5 minutes).
@@ -1255,12 +1255,12 @@ $$
 
 ### Experiment: Standing Waves on a String
 
-### Materials Needed
+#### Materials Needed
 - Long, flexible string or rope
 - Two fixed points to attach the string
 - Vibration source (e.g., small motor or hand movement)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Tie the string between two fixed points, leaving it slightly slack.
 2. **Create Waves:** Vibrate one end of the string to create standing waves.
 3. **Observe Patterns:** Notice how certain frequencies create stable patterns (nodes and antinodes).
@@ -1290,13 +1290,13 @@ $$
 
 ### Experiment: Lemon Battery
 
-### Materials Needed
+#### Materials Needed
 - Lemons
 - Copper and zinc strips (or copper coins and galvanized nails)
 - LED light or small digital voltmeter
 - Wires with alligator clips
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Insert a copper strip and a zinc strip into a lemon.
 2. **Measure Voltage:** Connect the voltmeter to the strips and measure the voltage.
 3. **Add Lemons:** Connect multiple lemons in series and observe the change in voltage.
@@ -1328,13 +1328,13 @@ $$
 
 ### Experiment: Stock Market Simulation Game
 
-### Materials Needed
+#### Materials Needed
 - Deck of cards
 - Play money
 - Graph paper
 - Dice
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Assign different card suits to represent different "stocks."
 2. **Simulate Market:** Use dice rolls to determine price changes.
 3. **Trade Stocks:** Allow players to buy and sell stocks based on the changing prices.
@@ -1370,13 +1370,13 @@ $$
 
 ### Experiment: Electromagnetic Wave Demonstration
 
-### Materials Needed
+#### Materials Needed
 - Two perpendicular metal rods or wires
 - Battery
 - Switch
 - Small compass or magnetic field sensor
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Arrange the rods in a "T" shape, with the vertical rod connected to the battery through a switch.
 2. **Create Magnetic Field:** Close the switch to allow current to flow through the vertical rod.
 3. **Observe Electromagnetic Effect:** Use the compass to detect the magnetic field around the horizontal rod.
@@ -1409,13 +1409,13 @@ $$
 
 ### Experiment: Rolling Marbles on a Smooth Surface
 
-### Materials Needed
+#### Materials Needed
 - Two marbles of different sizes (or identical sizes)
 - Smooth surface (like a tabletop)
 - Measuring tape
 - Stopwatch (optional)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Place the two marbles on the smooth surface.
 2. **Collide Marbles:** Gently roll one marble towards the other and observe what happens when they collide.
 3. **Measure Speeds:** Use a stopwatch or estimate by observation how fast each marble moves before and after the collision.
@@ -1445,13 +1445,13 @@ $$
 
 ### Experiment: Laser Pointer in Water
 
-### Materials Needed
+#### Materials Needed
 - Laser pointer
 - Clear glass or acrylic tank
 - Water
 - Protractor
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Fill the clear tank with water and place it on a flat surface.
 2. **Shine Laser:** Shine the laser pointer at an angle towards the surface of the water and observe how the light bends.
 3. **Measure Angles:** Use a protractor to measure the angle of the laser in the air and the angle of the laser inside the water.
@@ -1481,12 +1481,12 @@ $$
 
 ### Experiment: Squeezing a Water Hose
 
-### Materials Needed
+#### Materials Needed
 - Garden hose with a nozzle
 - Water source
 - Measuring tape or ruler
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Connect the hose to the water source and turn on the water at a steady rate.
 2. **Observe Flow:** Observe how the water flows out of the hose without the nozzle.
 3. **Squeeze Nozzle:** Squeeze the nozzle to reduce the opening size and observe how the speed of the water changes.
@@ -1516,12 +1516,12 @@ $$
 
 ### Experiment: Dropping Objects from Different Heights
 
-### Materials Needed
+#### Materials Needed
 - Small objects (like balls or toys)
 - Measuring tape or ruler
 - Stopwatch (optional)
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Measure different heights (e.g., table height, chair height) and mark them.
 2. **Drop Objects:** Drop objects from each height and observe the difference in how they fall.
 3. **Calculate Potential Energy:** Use the formula to calculate the gravitational potential energy at different heights.
@@ -1552,14 +1552,14 @@ $$
 
 ### Experiment: Inflating a Balloon in Hot and Cold Water
 
-### Materials Needed
+#### Materials Needed
 - Balloon
 - Two bowls
 - Hot water (from the tap)
 - Ice water
 - Thermometer
 
-### Steps to Show the Math
+#### Steps to Show the Math
 1. **Set Up:** Inflate a balloon slightly and tie it off.
 2. **Place Balloon in Hot Water:** Put the balloon in a bowl of hot water and observe how it expands.
 3. **Place Balloon in Ice Water:** Move the balloon to a bowl of ice water and observe how it contracts.
