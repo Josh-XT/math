@@ -1,49 +1,5 @@
 # Math
 
-## **1. The Fundamental Theorem of Calculus**
-   \[
-   \frac{d}{dx} \int_a^x f(t) \, dt = f(x)
-   \]
-
-### **Experiment: Water Flowing from a Funnel into a Container**
-
-### **Materials Needed:**
-- Funnel
-- Large container (like a measuring jug)
-- Small cup (e.g., 10 ml or 50 ml)
-- Stopwatch
-- Water
-
-### **Steps to Show the Math:**
-1. **Set Up:** Place the funnel over the large container. Make sure the container is stable to avoid spills.
-2. **Measure Flow Rate:** 
-   - Start with a small amount of water in the funnel. Place the small cup under the funnel's spout.
-   - Use the stopwatch to measure the time it takes to fill the small cup (e.g., 10 seconds for 10 ml, meaning the flow rate is 1 ml/sec).
-3. **Calculate Total Water (Integration):**
-   - Predict the total water collected in the large container after 1 minute using the flow rate.
-   - For example, if the flow rate is 1 ml/sec, then in 60 seconds, the total water should be \( 1 \times 60 = 60 \, \text{ml} \).
-4. **Direct Measurement:** Allow water to flow for 1 minute, then measure the actual water collected in the container.
-5. **Explanation:** Explain that the total amount of water collected (integral) is found by adding up small amounts of water over time. The flow rate (derivative) tells how fast water is flowing at any moment.
-
-### **What the Symbols Mean:**
-- **\(\int_a^x f(t) \, dt\):** The integral represents adding up all the tiny pieces of a quantity from point \(a\) to point \(x\), like summing up the small amounts of water over time.
-- **\(\frac{d}{dx}\):** The derivative measures how something is changing at a specific point. It’s like asking, "How fast is the water flowing right now?"
-- **\(f(t)\):** The function that describes the flow rate of water over time.
-- **\(f(x)\):** The value of the function at a specific point \(x\), telling us the flow rate at that moment.
-
-### **Why This Equation is Important:**
-- The Fundamental Theorem of Calculus connects two major conCertainly! To make sure that the equations and symbols parse properly on GitHub using Markdown, you can use GitHub-flavored Markdown for math. GitHub supports LaTeX-style math using the `$$` delimiters for block equations and single `$` delimiters for inline equations. However, it should be noted that GitHub does not natively render LaTeX math in Markdown files. Instead, you may need to use tools like [MathJax](https://www.mathjax.org/) or convert your Markdown files to HTML with support for LaTeX math.
-
-Here’s how you can format the document to be compatible with Markdown, and then use LaTeX rendering tools to display the math correctly on GitHub or other platforms that support LaTeX:
-
-### Updated Formatting for Math Parsing in Markdown:
-
-For GitHub, you can include the math inline within text using single `$` or double `$$` for standalone block equations. Here's the formatted text:
-
----
-
-# Math
-
 ## 1. The Fundamental Theorem of Calculus
 
 $$
