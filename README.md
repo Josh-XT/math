@@ -376,10 +376,10 @@ $$
 2. **Measure Car Mass:** Weigh the toy car using a kitchen scale. Note its mass (e.g., 0.5 kg).
 3. **Calculate Acceleration:**
    - Release the car from the top of the ramp. Use the stopwatch to measure the time it takes to reach the bottom.
-   - Calculate acceleration using the formula $ \text{acceleration} = \frac{\text{change in velocity}}{\text{time}}$. For simplicity, assume it starts from rest and use distance/time squared.
+   - Calculate acceleration using the formula `\( \text{acceleration} = \frac{\text{change in velocity}}{\text{time}} \)`. For simplicity, assume it starts from rest and use `\(\frac{\text{distance}}{\text{time}^2}\)` for a rough estimate.
 4. **Calculate Force:**
    - Attach different weights to the car and repeat the experiment.
-   - Use $ F = ma$ to calculate the force. For instance, with mass $ 0.5 \, \text{kg} $ and acceleration $ 2 \, \text{m/s}^2 $, force $ F = 0.5 \times 2 = 1 \, \text{N} $.
+   - Use `\( F = ma \)` to calculate the force. For instance, with mass `\( 0.5 \, \text{kg} \)` and acceleration `\( 2 \, \text{m/s}^2 \)`, force `\( F = 0.5 \times 2 = 1 \, \text{N} \)`.
 5. **Explanation:** Discuss how increasing the car's weight or changing the ramp’s angle affects the speed. Show that force makes objects accelerate faster.
 
 ### What the Symbols Mean:
