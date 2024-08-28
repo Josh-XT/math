@@ -917,7 +917,3 @@ $$
 
 ### How to Explain to Kids:
 - “Different sounds are made up of different pitches, like notes in a song. The Fourier transform is like a special tool that breaks down sounds into all the different notes that make them up.”
-
----
-
-I believe I need to modify the formatting of the equations and symbols. I would like them to properly parse on GitHub in markdown if possible. I am making this some open source math guidance to help parents teach their young children complex mathematical equations. Can you help me fix the formatting on the equations and symbols?
