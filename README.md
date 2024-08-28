@@ -2,9 +2,9 @@
 
 ## 1. The Fundamental Theorem of Calculus
 
-\[
+$$
 \frac{d}{dx} \int_a^x f(t) \, dt = f(x)
-\]
+$$
 
 ### Experiment: Water Flowing from a Funnel into a Container
 
@@ -45,9 +45,9 @@
 
 ## 2. Newton's Second Law of Motion
 
-\[
+$$
 F = ma
-\]
+$$
 
 ### Experiment: Toy Car on a Ramp with Different Weights
 
@@ -63,10 +63,10 @@ F = ma
 2. **Measure Car Mass:** Weigh the toy car using a kitchen scale. Note its mass (e.g., 0.5 kg).
 3. **Calculate Acceleration:**
    - Release the car from the top of the ramp. Use the stopwatch to measure the time it takes to reach the bottom.
-   - Calculate acceleration using the formula \(\text{acceleration} = \frac{\text{change in velocity}}{\text{time}}\). For simplicity, assume it starts from rest and use distance/time squared.
+   - Calculate acceleration using the formula \( \text{acceleration} = \frac{\text{change in velocity}}{\text{time}} \). For simplicity, assume it starts from rest and use distance/time squared.
 4. **Calculate Force:**
    - Attach different weights to the car and repeat the experiment.
-   - Use \(F = ma\) to calculate the force. For instance, with mass \(0.5 \, \text{kg}\) and acceleration \(2 \, \text{m/s}^2\), force \(F = 0.5 \times 2 = 1 \, \text{N}\).
+   - Use \( F = ma \) to calculate the force. For instance, with mass \( 0.5 \, \text{kg} \) and acceleration \( 2 \, \text{m/s}^2 \), force \( F = 0.5 \times 2 = 1 \, \text{N} \).
 5. **Explanation:** Discuss how increasing the car's weight or changing the ramp’s angle affects the speed. Show that force makes objects accelerate faster.
 
 ### What the Symbols Mean:
@@ -87,9 +87,9 @@ F = ma
 
 ## 3. The Ideal Gas Law
 
-\[
+$$
 PV = nRT
-\]
+$$
 
 ### Experiment: Balloon Over a Bottle in Warm Water
 
@@ -127,9 +127,9 @@ PV = nRT
 
 ## 4. Ohm's Law
 
-\[
+$$
 V = IR
-\]
+$$
 
 ### Experiment: Circuit with a Battery, Light Bulb, and Dimmer Switch
 
@@ -142,14 +142,14 @@ V = IR
 
 ### Steps to Show the Math:
 1. **Set Up:** Connect the battery to the light bulb using wires. Include the dimmer switch in the circuit.
-2. **Measure Voltage:** Use the multimeter to measure the voltage across the light bulb (e.g., 9V).
+2. **Measure
+
+ Voltage:** Use the multimeter to measure the voltage across the light bulb (e.g., 9V).
 3. **Measure Current:** Measure the current using the multimeter (e.g., 0.5A).
 4. **Calculate Resistance:** Use Ohm’s law \( R = \frac{V}{I} \). With \( 9V \) and \( 0.5A \), \( R = \frac{9}{0.5} = 18 \, \Omega \).
 5. **Explanation:** Show how changing the dimmer switch affects the light bulb’s brightness and the current. Explain that this illustrates how resistance affects the flow of electricity.
 
-###
-
- What the Symbols Mean:
+### What the Symbols Mean:
 - **\(V\):** Voltage, measured in volts (V). It’s like the electrical “pressure” that pushes the current through the circuit.
 - **\(I\):** Current, measured in amperes (A). It’s how much electric charge is flowing.
 - **\(R\):** Resistance, measured in ohms (Ω). It shows how much the circuit resists the flow of electricity.
@@ -167,9 +167,9 @@ V = IR
 
 ## 5. The Wave Equation
 
-\[
+$$
 \frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}
-\]
+$$
 
 ### Experiment: Waves on a Slinky
 
@@ -182,7 +182,7 @@ V = IR
 1. **Set Up:** Stretch the slinky across a table or floor.
 2. **Create a Wave:** Push one end of the slinky to create a wave and watch it travel down its length.
 3. **Measure Wave Speed:** Use the stopwatch to measure the time it takes for the wave to travel to the other end and back. Measure the length of the slinky.
-4. **Explanation:** Calculate the wave speed using \(\text{speed} = \frac{\text{distance}}{\text{time}}\). Discuss how tension in the slinky affects wave speed and relate this to the wave equation.
+4. **Explanation:** Calculate the wave speed using \( \text{speed} = \frac{\text{distance}}{\text{time}} \). Discuss how tension in the slinky affects wave speed and relate this to the wave equation.
 
 ### What the Symbols Mean:
 - **\(u\):** Displacement of the wave at a point, showing how far a point on the wave is from its resting position.
@@ -201,45 +201,44 @@ V = IR
 
 ---
 
-## 6. Euler's Formula for Complex Exponentials
+## **6. Euler's Formula for Complex Exponentials**
+   \[
+   e^{ix} = \cos(x) + i\sin(x)
+   \]
 
-\[
-e^{ix} = \cos(x) + i\sin(x)
-\]
+### **Experiment: Spinning Top or a Clock Face**
 
-### Experiment: Spinning Top or a Clock Face
-
-### Materials Needed:
+### **Materials Needed:**
 - Spinning top or a large clock face
 - Paper and markers
 
-### Steps to Show the Math:
+### **Steps to Show the Math:**
 1. **Spin the Top:** Spin the top and observe its circular motion.
 2. **Draw a Circle:** On paper, draw a circle and mark points at different angles. Label them with cosine and sine values.
 3. **Explanation:** Show how the spinning top's movement resembles cosine and sine functions. Explain Euler’s formula as a way to describe circular motion mathematically.
 
-### What the Symbols Mean:
+### **What the Symbols Mean:**
 - **\(e\):** A special number (about 2.718) important in math.
 - **\(i\):** The imaginary unit, a special number that helps us describe things that can’t be represented by real numbers alone.
 - **\(x\):** The angle or time, showing how far along the circle we are.
 - **\(\cos(x)\) and \(\sin(x)\):** Functions describing circular motion and waves.
 
-### Why This Equation is Important:
+### **Why This Equation is Important:**
 - Euler’s formula connects exponential functions with trigonometry, forming a bridge between algebra and geometry. It's widely used in engineering, physics, and complex number theory, especially in wave analysis and electrical engineering.
 
-### Historical Example:
+### **Historical Example:**
 - Introduced by Leonhard Euler in the 18th century, this formula is celebrated as one of the most beautiful in mathematics. It's fundamental in fields like signal processing and quantum mechanics, explaining phenomena such as waveforms and oscillations.
 
-### How to Explain to Kids:
+### **How to Explain to Kids:**
 - “When things spin around, like the hands of a clock, they can be described using cosine and sine. Euler’s formula is a neat way to combine these to describe spinning or circular movements.”
 
 ---
 
 ## 7. The Law of Universal Gravitation
 
-\[
+$$
 F = G\frac{m_1m_2}{r^2}
-\]
+$$
 
 ### Experiment: Dropping Two Balls from the Same Height
 
@@ -273,9 +272,9 @@ F = G\frac{m_1m_2}{r^2}
 
 ## 8. Navier-Stokes Equation (Simplified)
 
-\[
+$$
 \rho\left(\frac{\partial \mathbf{u}}{\partial t} + \mathbf{u} \cdot \nabla \mathbf{u}\right) = -\nabla p + \mu \nabla^2 \mathbf{u} + \mathbf{f}
-\]
+$$
 
 ### Experiment: Stirring Water in a Bowl
 
@@ -306,17 +305,15 @@ F = G\frac{m_1m_2}{r^2}
 - Derived in the 19th century by Claude-Louis Navier and George Gabriel Stokes, this equation is used to model complex fluid behaviors like ocean currents, weather patterns, and airflow over aircraft wings.
 
 ### How to Explain to Kids:
-- “When you stir water, it starts to move in patterns. This equation helps us predict how the
-
- water will flow and change when you stir it, like a set of instructions for water movement.”
+- “When you stir water, it starts to move in patterns. This equation helps us predict how the water will flow and change when you stir it, like a set of instructions for water movement.”
 
 ---
 
 ## 9. The Normal Distribution (Gaussian Function)
 
-\[
+$$
 f(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}
-\]
+$$
 
 ### Experiment: Dropping Balls into a Bowl
 
@@ -351,9 +348,9 @@ f(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}
 
 ## 10. Bayes' Theorem
 
-\[
+$$
 P(A|B) = \frac{P(B|A)P(A)}{P(B)}
-\]
+$$
 
 ### Experiment: Drawing Colored Candies from Two Bags
 
@@ -387,9 +384,9 @@ P(A|B) = \frac{P(B|A)P(A)}{P(B)}
 
 ## 11. The Second Law of Thermodynamics
 
-\[
+$$
 \Delta S \geq 0
-\]
+$$
 
 ### Experiment: Melting Ice in a Warm Drink
 
@@ -398,7 +395,9 @@ P(A|B) = \frac{P(B|A)P(A)}{P(B)}
 - Warm drink (like tea or water)
 - Thermometer
 
-### Steps to Show the Math:
+### Steps
+
+ to Show the Math:
 1. **Set Up:** Place an ice cube in a warm drink.
 2. **Melt the Ice:** Watch the ice melt and observe how the temperature changes over time.
 3. **Measure Temperature:** Use the thermometer to measure the temperature until it’s even throughout.
@@ -421,9 +420,9 @@ P(A|B) = \frac{P(B|A)P(A)}{P(B)}
 
 ## 12. Planck's Equation for Blackbody Radiation
 
-\[
+$$
 E = h\nu
-\]
+$$
 
 ### Experiment: Flashlight with Colored Filters
 
@@ -455,9 +454,9 @@ E = h\nu
 
 ## 13. Coulomb's Law
 
-\[
+$$
 F = k_e \frac{q_1 q_2}{r^2}
-\]
+$$
 
 ### Experiment: Rubbing Two Balloons with a Wool Sweater
 
@@ -480,9 +479,7 @@ F = k_e \frac{q_1 q_2}{r^2}
 - Coulomb's law is fundamental to electrostatics, explaining how electric charges interact. It's crucial for understanding electric fields, forces in atoms and molecules, and designing electronic devices.
 
 ### Historical Example:
-- Discovered by Charles-Augustin de Coulomb in the 18th century, this law was
-
- vital in the development of electromagnetism and understanding the structure of atoms.
+- Discovered by Charles-Augustin de Coulomb in the 18th century, this law was vital in the development of electromagnetism and understanding the structure of atoms.
 
 ### How to Explain to Kids:
 - “When you rub balloons, they get charged and push away from each other. This equation shows that the more you charge the balloons or the closer they are, the stronger the push or pull between them.”
@@ -491,9 +488,9 @@ F = k_e \frac{q_1 q_2}{r^2}
 
 ## 14. The Logistic Growth Model
 
-\[
+$$
 \frac{dP}{dt} = rP\left(1 - \frac{P}{K}\right)
-\]
+$$
 
 ### Experiment: Growing Plants in a Pot
 
@@ -526,9 +523,9 @@ F = k_e \frac{q_1 q_2}{r^2}
 
 ## 15. Kirchhoff's Current Law (KCL)
 
-\[
-\sum I_{\text{in}} = \sum I_{\text{out}}
-\]
+$$
+\sum I_{in} = \sum I_{out}
+$$
 
 ### Experiment: Using a Y-Shaped Water Pipe
 
@@ -544,8 +541,8 @@ F = k_e \frac{q_1 q_2}{r^2}
 4. **Explanation:** Show that the total water coming in equals the total water going out. This law is like making sure no water is lost when sharing it between two paths.
 
 ### What the Symbols Mean:
-- **\(\sum I_{\text{in}}\):** Sum of all the electric currents coming into a junction.
-- **\(\sum I_{\text{out}}\):** Sum of all the electric currents going out of a junction.
+- **\(\sum I_{in}\):** Sum of all the electric currents coming into a junction.
+- **\(\sum I_{out}\):** Sum of all the electric currents going out of a junction.
 
 ### Why This Equation is Important:
 - Kirchhoff's Current Law is essential for understanding electrical circuits, ensuring that all current entering a junction also exits. It's fundamental in circuit design, analysis, and ensuring electrical safety.
@@ -560,9 +557,9 @@ F = k_e \frac{q_1 q_2}{r^2}
 
 ## 16. Hooke's Law
 
-\[
+$$
 F = -kx
-\]
+$$
 
 ### Experiment: Stretching a Spring
 
@@ -580,7 +577,9 @@ F = -kx
 5. **Explanation:** Show that the more weight you add, the more the spring stretches, demonstrating how force is proportional to the stretch distance.
 
 ### What the Symbols Mean:
-- **\(F\):** Force applied to the spring, measured in newtons (N).
+- **\(F\):** Force applied to the spring, measured in newtons
+
+ (N).
 - **\(k\):** Spring constant, a measure of the stiffness of the spring, measured in newtons per meter (N/m).
 - **\(x\):** Displacement or stretch of the spring from its natural length, measured in meters (m).
 
@@ -597,9 +596,9 @@ F = -kx
 
 ## 17. The Pythagorean Theorem
 
-\[
+$$
 a^2 + b^2 = c^2
-\]
+$$
 
 ### Experiment: Using a Right Triangle
 
@@ -633,9 +632,9 @@ a^2 + b^2 = c^2
 
 ## 18. Snell's Law
 
-\[
+$$
 \frac{\sin \theta_1}{\sin \theta_2} = \frac{v_1}{v_2}
-\]
+$$
 
 ### Experiment: Light Bending in Water
 
@@ -670,16 +669,14 @@ a^2 + b^2 = c^2
 
 ## 19. Bernoulli's Equation
 
-\[
+$$
 P + \frac{1}{2} \rho v^2 + \rho gh = \text{constant}
-\]
+$$
 
 ### Experiment: Blowing Over Paper
 
 ### Materials Needed:
-- Sheet of
-
- paper
+- Sheet of paper
 - Drinking straw (optional)
 
 ### Steps to Show the Math:
@@ -707,9 +704,9 @@ P + \frac{1}{2} \rho v^2 + \rho gh = \text{constant}
 
 ## 20. The Schrödinger Equation
 
-\[
+$$
 i\hbar\frac{\partial}{\partial t}\Psi = \hat{H}\Psi
-\]
+$$
 
 ### Experiment: Waves in a Rope
 
@@ -742,9 +739,9 @@ i\hbar\frac{\partial}{\partial t}\Psi = \hat{H}\Psi
 
 ## 21. Faraday's Law of Electromagnetic Induction
 
-\[
+$$
 \mathcal{E} = -\frac{d\Phi_B}{dt}
-\]
+$$
 
 ### Experiment: Moving a Magnet Near a Coil
 
@@ -768,7 +765,9 @@ i\hbar\frac{\partial}{\partial t}\Psi = \hat{H}\Psi
 - Faraday's Law explains how electric currents can be generated by changing magnetic fields, which is the principle behind electric generators and transformers, making it crucial for modern electricity generation and distribution.
 
 ### Historical Example:
-- Discovered by Michael Faraday in 1831, this law laid the foundation for electromagnetic theory. It enabled the invention of the electric generator and transformer, powering the modern world.
+- Discovered by Michael Faraday in 1831, this law laid
+
+ the foundation for electromagnetic theory. It enabled the invention of the electric generator and transformer, powering the modern world.
 
 ### How to Explain to Kids:
 - “When you move a magnet near a coil of wire, you create electricity! This equation shows how changing magnetic fields can make electric currents, like in a power generator.”
@@ -777,9 +776,9 @@ i\hbar\frac{\partial}{\partial t}\Psi = \hat{H}\Psi
 
 ## 22. The Doppler Effect Equation
 
-\[
+$$
 f' = f \frac{v + v_0}{v - v_s}
-\]
+$$
 
 ### Experiment: Whistle and Running
 
@@ -813,9 +812,9 @@ f' = f \frac{v + v_0}{v - v_s}
 
 ## 23. The Heisenberg Uncertainty Principle
 
-\[
+$$
 \Delta x \cdot \Delta p \geq \frac{\hbar}{2}
-\]
+$$
 
 ### Experiment: Throwing a Ball in the Dark
 
@@ -848,9 +847,9 @@ f' = f \frac{v + v_0}{v - v_s}
 
 ## 24. The Lorentz Transformation
 
-\[
+$$
 t' = \gamma \left( t - \frac{vx}{c^2} \right)
-\]
+$$
 
 ### Experiment: Watching a Moving Object
 
@@ -868,9 +867,7 @@ t' = \gamma \left( t - \frac{vx}{c^2} \right)
 ### What the Symbols Mean:
 - **\(t'\):** Time observed in the moving frame.
 - **\(t\):** Time observed in the stationary frame.
-- **\(
-
-v\):** Speed of the moving object.
+- **\(v\):** Speed of the moving object.
 - **\(x\):** Position in space.
 - **\(c\):** Speed of light.
 - **\(\gamma\):** Lorentz factor, \( \gamma = \frac{1}{\sqrt{1 - v^2/c^2}} \).
@@ -888,9 +885,9 @@ v\):** Speed of the moving object.
 
 ## 25. Fourier Transform
 
-\[
+$$
 F(k) = \int_{-\infty}^{\infty} f(x) e^{-2\pi ikx} dx
-\]
+$$
 
 ### Experiment: Sound Waves and Frequencies
 
@@ -920,3 +917,7 @@ F(k) = \int_{-\infty}^{\infty} f(x) e^{-2\pi ikx} dx
 
 ### How to Explain to Kids:
 - “Different sounds are made up of different pitches, like notes in a song. The Fourier transform is like a special tool that breaks down sounds into all the different notes that make them up.”
+
+---
+
+I believe I need to modify the formatting of the equations and symbols. I would like them to properly parse on GitHub in markdown if possible. I am making this some open source math guidance to help parents teach their young children complex mathematical equations. Can you help me fix the formatting on the equations and symbols?
