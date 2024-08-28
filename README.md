@@ -457,13 +457,11 @@ $$
 1. **Set Up:** Connect the battery to the light bulb using wires. Include the dimmer switch in the circuit.
 2. **Measure Voltage:** Use the multimeter to measure the voltage across the light bulb (e.g., 9V).
 3. **Measure Current:** Measure the current using the multimeter (e.g., 0.5A).
-4. **Calculate Resistance:** Use Ohm’s law $ R = \frac{V}{I} $. With $ 9V $ and $ 0.5A $, $ R = \frac{9}{0.5} = 18 \, \Omega $.
+4. **Calculate Resistance:** Use Ohm’s law `\( R = \frac{V}{I} \)`. With `\( 9V \)` and `\( 0.5A \)`, `\( R = \frac{9}{0.5} = 18 \, \Omega \)`.
 5. **Explanation:** Show how changing the dimmer switch affects the light bulb’s brightness and the current. Explain that this illustrates how resistance affects the flow of electricity.
 
 ### What the Symbols Mean:
-- **$V$:** Voltage, measured in
-
- volts (V). It’s like the electrical “pressure” that pushes the current through the circuit.
+- **$V$:** Voltage, measured in volts (V). It’s like the electrical “pressure” that pushes the current through the circuit.
 - **$I$:** Current, measured in amperes (A). It’s how much electric charge is flowing.
 - **$R$:** Resistance, measured in ohms ($\Omega$). It shows how much the circuit resists the flow of electricity.
 
@@ -801,9 +799,7 @@ $$
 ## 14. The Logistic Growth Model
 
 $$
-\frac{dP}{dt
-
-} = rP\left(1 - \frac{P}{K}\right)
+\frac{dP}{dt} = rP\left(1 - \frac{P}{K}\right)
 $$
 
 ### Experiment: Growing Plants in a Pot
