@@ -16,7 +16,7 @@
     - [Why This Equation is Important:](#why-this-equation-is-important)
     - [Historical Example:](#historical-example)
     - [How to Explain to Kids:](#how-to-explain-to-kids)
-    - [2. Newton's Second Law of Motion](#2-newtons-second-law-of-motion)
+  - [2. Newton's Second Law of Motion](#2-newtons-second-law-of-motion)
     - [Experiment: Toy Car on a Ramp with Different Weights](#experiment-toy-car-on-a-ramp-with-different-weights)
     - [Materials Needed:](#materials-needed-1)
     - [Steps to Show the Math:](#steps-to-show-the-math-1)
@@ -29,7 +29,7 @@
     - [Why This Equation is Important:](#why-this-equation-is-important-1)
     - [Historical Example:](#historical-example-1)
     - [How to Explain to Kids:](#how-to-explain-to-kids-1)
-    - [4. Ohm's Law](#4-ohms-law)
+  - [4. Ohm's Law](#4-ohms-law)
     - [Experiment: Circuit with a Battery, Light Bulb, and Dimmer Switch](#experiment-circuit-with-a-battery-light-bulb-and-dimmer-switch)
     - [Materials Needed:](#materials-needed-3)
     - [Steps to Show the Math:](#steps-to-show-the-math-3)
@@ -350,7 +350,7 @@ $$
 
 ---
 
-### 2. Newton's Second Law of Motion
+## 2. Newton's Second Law of Motion
 
 $$
 F = ma
@@ -428,7 +428,7 @@ $$
 
 ---
 
-### 4. Ohm's Law
+## 4. Ohm's Law
 
 $$
 V = IR
