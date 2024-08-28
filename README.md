@@ -371,20 +371,20 @@ $$
 3. **Calculate Acceleration:**
    - Release the car from the top of the ramp. Use the stopwatch to measure the time it takes to reach the bottom.
    - Calculate acceleration using the formula:  
-     $$ \text{acceleration} = \frac{\text{change in velocity}}{\text{time}} $$  
-     For simplicity, assume it starts from rest and use the distance/time squared.
+     `acceleration = change in velocity / time`  
+     For simplicity, assume it starts from rest and use `distance / time^2`.
 4. **Calculate Force:**
    - Attach different weights to the car and repeat the experiment.
    - Use the equation:  
-     $$ F = ma $$  
-     For instance, with mass \( 0.5 \, \text{kg} \) and acceleration \( 2 \, \text{m/s}^2 \),  
-     $$ F = 0.5 \times 2 = 1 \, \text{N} $$
+     `F = ma`  
+     For instance, with mass `0.5 kg` and acceleration `2 m/s^2`:  
+     `F = 0.5 * 2 = 1 N`
 5. **Explanation:** Discuss how increasing the car's weight or changing the ramp’s angle affects the speed. Show that force makes objects accelerate faster.
 
 ### What the Symbols Mean:
-- **$F$:** Force, the push or pull on an object, measured in newtons (N).
-- **$m$:** Mass of the object, measured in kilograms (kg). It’s how heavy the car is.
-- **$a$:** Acceleration, measured in meters per second squared (m/s\(^2\)). It tells us how quickly the speed of the car is changing.
+- **F:** Force, the push or pull on an object, measured in newtons (N).
+- **m:** Mass of the object, measured in kilograms (kg). It’s how heavy the car is.
+- **a:** Acceleration, measured in meters per second squared (m/s^2). It tells us how quickly the speed of the car is changing.
 
 ---
 
@@ -448,15 +448,15 @@ $$
 2. **Measure Voltage:** Use the multimeter to measure the voltage across the light bulb (e.g., 9V).
 3. **Measure Current:** Measure the current using the multimeter (e.g., 0.5A).
 4. **Calculate Resistance:** Use Ohm’s law to calculate the resistance using the formula:  
-   $$ R = \frac{V}{I} $$  
-   For example, with \( 9V \) and \( 0.5A \):  
-   $$ R = \frac{9}{0.5} = 18 \, \Omega $$
+   `R = V / I`  
+   For example, with `9V` and `0.5A`:  
+   `R = 9 / 0.5 = 18 Ω`
 5. **Explanation:** Show how changing the dimmer switch affects the light bulb’s brightness and the current. Explain that this illustrates how resistance affects the flow of electricity.
 
 ### What the Symbols Mean:
-- **$V$:** Voltage, measured in volts (V). It’s like the electrical “pressure” that pushes the current through the circuit.
-- **$I$:** Current, measured in amperes (A). It’s how much electric charge is flowing.
-- **$R$:** Resistance, measured in ohms ($\Omega$). It shows how much the circuit resists the flow of electricity.
+- **V:** Voltage, measured in volts (V). It’s like the electrical “pressure” that pushes the current through the circuit.
+- **I:** Current, measured in amperes (A). It’s how much electric charge is flowing.
+- **R:** Resistance, measured in ohms (Ω). It shows how much the circuit resists the flow of electricity.
 
 ---
 
